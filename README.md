@@ -5,4 +5,4 @@ Projects below:
 - Power BI Case Study – Overtime Kitchen & Bar
 - Data-Driven Performance & Profitability Analytics
   
-| LinkedIn: https://www.linkedin.com/in/aishwarya-srinivasan-4a8a7b65/ | Email: aishwarya.hphb@gmail.com
+LinkedIn: https://www.linkedin.com/in/aishwarya-srinivasan-4a8a7b65/ | Email: aishwarya.hphb@gmail.com
